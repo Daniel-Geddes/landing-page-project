@@ -7,7 +7,7 @@ import './HeroSection.css';
 function HeroSection() {
     return (
         <div className="hero-container">
-            <video src="/videos/video-1.mp4" autoPlay loop muted />
+            <video src="/videos/video-2.mp4" autoPlay loop muted />
             <h1>Bacon ipsum</h1>
             <p>dolor amet turducken pig cow, sirloin pork burgdoggen doner ground round jerky brisket shank filet mignon.</p>
             <div className="hero-btns">
